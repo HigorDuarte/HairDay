@@ -1,0 +1,19 @@
+{
+  "schedules": [
+    {
+      "id": "ccdc",
+      "name": "Higor",
+      "when": "2026-04-27T17:00:00.000Z"
+    },
+    {
+      "id": "9153",
+      "name": "Higor Duarte",
+      "when": "2026-04-27T18:00:00.000Z"
+    },
+    {
+      "id": "fa01",
+      "name": "Higor Duarte",
+      "when": "2026-04-28T23:00:00.000Z"
+    }
+  ]
+}
